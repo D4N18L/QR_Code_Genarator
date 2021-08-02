@@ -1,1 +1,1 @@
-A Qr code generator that  will enable us to save links
+This application uses Tkinter , PyQrCode and PIL in turning weblinks provided into QR CODE  
